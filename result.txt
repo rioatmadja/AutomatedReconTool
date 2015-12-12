@@ -1,6 +1,8 @@
 # The following server might be vulnerable to:
  - Open Carts for Remote File Upload vulnerability.
  - https://www.exploit-db.com/ghdb/4148/ 
+ - Command Invoked: python art.py --google-dork intext:\"Powered By OpenCart\" -site:opencart.com -inurl:\"Powered By OpenCart\" -intitle:\"OpenCart\" -intitle:\"powered by\"
+
 	
 #**************************************************
 #* 	          _____ _______   		 *
